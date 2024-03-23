@@ -19,7 +19,7 @@
 	 gallons = scanner.nextDouble();
 	 double gallonsequals = (gallons*liters);
 	
-	System.out.println(+gallonsequals++);
+	System.out.println("Total de litros adquiridos: "+gallonsequals++);
 	
 
 	}
